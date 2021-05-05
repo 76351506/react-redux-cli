@@ -1,0 +1,21 @@
+.wraper {
+  width: 100%;
+  background-color: #dec;
+}
+.header,
+.footer {
+  width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header {
+  height: 44px;
+  border-bottom: 1px solid #ccc;
+}
+.content {
+  width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 800px;
+}
